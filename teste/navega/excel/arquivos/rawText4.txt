@@ -1,0 +1,1448 @@
+
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1581 RPM
+28 V
+121222,1 km
+17922,74 hrs
+Data/hora alerta
+08/02/2024 22:50:07
+Data de criação da mensagem
+08/02/2024 22:50:07
+Posição
+8,19 Km o De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1581 RPM
+28 V
+121221,3 km
+17922,49 hrs
+Data/hora alerta
+08/02/2024 22:35:07
+Data de criação da mensagem
+08/02/2024 22:35:06
+Posição
+7,49 Km o De IRANDUBA, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+LAGPLANTIGEDPPSBEAPSSCAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1581 RPM
+28 V
+121220,54 km
+17922,24 hrs
+Data/hora alerta
+08/02/2024 22:20:09
+Data de criação da mensagem
+08/02/2024 22:20:08
+Posição
+6,73 Km ONO De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+31
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1581 RPM
+28 V
+121219,73 km
+17921,99 hrs
+Data/hora alerta
+08/02/2024 22:05:07
+Data de criação da mensagem
+08/02/2024 22:05:06
+Posição
+5,87 Km ONO De IRANDUBA, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1581 RPM
+28 V
+121218,86 km
+17921,74 hrs
+Data/hora alerta
+08/02/2024 21:50:04
+Data de criação da mensagem
+08/02/2024 21:50:03
+Posição
+5,19 Km ONO De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+32
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1581 RPM
+28 V
+121218,17 km
+17921,49 hrs
+Data/hora alerta
+08/02/2024 21:35:07
+Data de criação da mensagem
+08/02/2024 21:35:06
+Posição
+4,66 Km o De IRANDUBA, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1581 RPM
+28 V
+121217,59 km
+17921,24 hrs
+Data/hora alerta
+08/02/2024 21:20:04
+Data de criação da mensagem
+08/02/2024 21:20:04
+Posição
+4,13 Km o De IRANDUBA, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1581 RPM
+28 V
+121216,99 km
+17920,99 hrs
+Data/hora alerta
+08/02/2024 21:05:06
+Data de criação da mensagem
+08/02/2024 21:05:06
+Posição
+3,61 Km o De IRANDUBA, AM Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+33
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1596 RPM
+28 V
+121216,27 km
+17920,74 hrs
+Data/hora alerta
+08/02/2024 20:50:08
+Data de criação da mensagem
+08/02/2024 20:50:07
+Posição
+3,00 Km O De IRANDUBA, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1581 RPM
+28 V
+121215,33 km
+17920,49 hrs
+Data/hora alerta
+08/02/2024 20:35:04
+Data de criação da mensagem
+08/02/2024 20:35:04
+Posição
+2,72 Km oso De IRANDUBA, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+34
+De
+71
+Histórico de consolidado de alertas de OBC
+CO
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1573 RPM
+28
+121214,73 km
+17920,24 hrs
+Data/hora alerta
+08/02/2024 20:20:05
+Data de criação da mensagem
+08/02/2024 20:20:05
+Posição
+2,49 Km oso De IRANDUBA, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1581 RPM
+28 V
+121214,09 km
+17919,99 hrs
+Data/hora alerta
+08/02/2024 20:05:06
+Data de criação da mensagem
+08/02/2024 20:05:05
+Posição
+2,26 Km SO De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+FCD
+1589 RPM
+28 V
+121213,64 km
+17919,74 hrs
+Data/hora alerta
+08/02/2024 19:50:04
+Data de criação da mensagem
+08/02/2024 19:50:04
+Posição
+1,33 Km oso De IRANDUBA, AM - Brasil, 6,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+35
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+6 Km/h
+1559 RPM
+28 V
+121212,71 km
+17919,49 hrs
+Data/hora alerta
+08/02/2024 19:35:04
+Data de criação da mensagem
+08/02/2024 19:35:04
+Posição
+1,17 Km S De IRANDUBA, AM Brasil, 5,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1566 RPM
+28 V
+121211,45 km
+17919,24 hrs
+Data/hora alerta
+08/02/2024 19:20:07
+Data de criação da mensagem
+08/02/2024 19:20:07
+Posição
+1,79 Km SE De IRANDUBA, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+36
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1566 RPM
+28 V
+121210,24 km
+17918,99 hrs
+Data/hora alerta
+08/02/2024 19:05:07
+Data de criação da mensagem
+08/02/2024 19:05:06
+Posição
+2,64 Km SE De IRANDUBA, AM Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1573 RPM
+28 V
+121209,19 km
+17918,74 hrs
+Data/hora alerta
+08/02/2024 18:50:07
+Data de criação da mensagem
+08/02/2024 18:50:06
+Posição
+3,48 Km ESE De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1573 RPM
+28 V
+121208,2 km
+17918,49 hrs
+Data/hora alerta
+08/02/2024 18:35:07
+Data de criação da mensagem
+08/02/2024 18:35:06
+Posição
+4,41 Km ESE De IRANDUBA, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+37
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1573 RPM
+28 V
+121207,08 km
+17918,24 hrs
+Data/hora alerta
+08/02/2024 18:20:06
+Data de criação da mensagem
+08/02/2024 18:20:06
+Posição
+5,47 Km ESE De IRANDUBA, AM Brasil, 5,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1559 RPM
+28 V
+121205,8 km
+17917,98 hrs
+Data/hora alerta
+08/02/2024 18:05:06
+Data de criação da mensagem
+08/02/2024 18:05:05
+Posição
+6,51 Km ESE De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+38
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1865 RPM
+28 V
+121204,64 km
+17917,73 hrs
+Data/hora alerta
+08/02/2024 17:50:05
+Data de criação da mensagem
+08/02/2024 17:50:05
+Posição
+7,49 Km E De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1865 RPM
+28 V
+121203,49 km
+17917,48 hrs
+Data/hora alerta
+08/02/2024 17:35:06
+Data de criação da mensagem
+08/02/2024 17:35:05
+Posição
+8,21 Km E De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1865 RPM
+28 V
+121202,69 km
+17917,23 hrs
+Data/hora alerta
+08/02/2024 17:20:06
+Data de criação da mensagem
+08/02/2024 17:20:05
+Posição
+8,77 Km E De IRANDUBA, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+39
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1865 RPM
+28 V
+121202,08 km
+17916,98 hrs
+Data/hora alerta
+08/02/2024 17:05:05
+Data de criação da mensagem
+08/02/2024 17:05:05
+Posição
+9,35 Km E De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1703 RPM
+28 V
+121201,4 km
+17916,73 hrs
+Data/hora alerta
+08/02/2024 16:50:05
+Data de criação da mensagem
+08/02/2024 16:50:05
+Posição
+10,33 Km E De IRANDUBA, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+40
+De
+71

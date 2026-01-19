@@ -1,0 +1,1462 @@
+
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1660 RPM
+28 V
+121266 km
+17935,21 hrs
+Data/hora alerta
+09/02/2024 11:19:55
+Data de criação da mensagem
+09/02/2024 11:19:54
+Posição
+4,04 Km ESE De MANACAPURU, AM Brasil, 7,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+7 Km/h
+1677 RPM
+28 V
+121264,6 km
+17934,96 hrs
+Data/hora alerta
+09/02/2024 11:04:54
+Data de criação da mensagem
+09/02/2024 11:04:54
+Posição
+4,84 Km ESE De MANACAPURU, AM Brasil, 5,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+6 Km/h
+1694 RPM
+28 V
+121263,2 km
+17934,71 hrs
+Data/hora alerta
+09/02/2024 10:49:54
+Data de criação da mensagem
+09/02/2024 10:49:53
+Posição
+6,06 Km ESE De MANACAPURU, AM Brasil, 6,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+11
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+6 Km/h
+1694 RPM
+28 V
+121261,9 km
+17934,46 hrs
+Data/hora alerta
+09/02/2024 10:34:53
+Data de criação da mensagem
+09/02/2024 10:34:53
+Posição
+7,00 Km ESE De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1694 RPM
+28 V
+121260,7 km
+17934,21 hrs
+Data/hora alerta
+09/02/2024 10:19:55
+Data de criação da mensagem
+09/02/2024 10:19:54
+Posição
+7,24 Km ESE De MANACAPURU, AM Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+12
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1544 RPM
+28 V
+121260 km
+17933,96 hrs
+Data/hora alerta
+09/02/2024 10:04:55
+Data de criação da mensagem
+09/02/2024 10:04:55
+Posição
+7,42 Km ESE De MANACAPURU, AM Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1544 RPM
+28 V
+121259,6 km
+17933,71 hrs
+Data/hora alerta
+09/02/2024 09:49:53
+Data de criação da mensagem
+09/02/2024 09:49:53
+Posição
+7,59 Km ESE De MANACAPURU, AM Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1551 RPM
+28 V
+121259,3 km
+17933,46 hrs
+Data/hora alerta
+09/02/2024 09:34:57
+Data de criação da mensagem
+09/02/2024 09:34:56
+Posição
+7,73 Km ESE De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+13
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1537 RPM
+28 V
+121258,6 km
+17933,21 hrs
+Data/hora alerta
+09/02/2024 09:19:57
+Data de criação da mensagem
+09/02/2024 09:19:56
+Posição
+8,26 Km ESE De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1544 RPM
+28 V
+121257,7 km
+17932,96 hrs
+Data/hora alerta
+09/02/2024 09:04:56
+Data de criação da mensagem
+09/02/2024 09:04:56
+Posição
+9,12 Km E De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+14
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1627 RPM
+28 V
+121256,7 km
+17932,71 hrs
+Data/hora alerta
+09/02/2024 08:49:56
+Data de criação da mensagem
+09/02/2024 08:49:56
+Posição
+10,12 Km E De MANACAPURU, AM Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1627 RPM
+28 V
+121255,7 km
+17932,46 hrs
+Data/hora alerta
+09/02/2024 08:34:55
+Data de criação da mensagem
+09/02/2024 08:34:55
+Posição
+11,03 Km E De MANACAPURU, AM Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1620 RPM
+28 V
+121254,8 km
+17932,21 hrs
+Data/hora alerta
+09/02/2024 08:19:56
+Data de criação da mensagem
+09/02/2024 08:19:55
+Posição
+11,69 Km E De MANACAPURU, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+15
+De
+71
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1804 RPM
+28 V
+121253,9 km
+17931,96 hrs
+Data/hora alerta
+09/02/2024 08:04:56
+Data de criação da mensagem
+09/02/2024 08:04:55
+Posição
+12,49 Km E De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1804 RPM
+28 V
+121253 km
+17931,71 hrs
+Data/hora alerta
+09/02/2024 07:49:55
+Data de criação da mensagem
+09/02/2024 07:49:55
+Posição
+13,01 Km E De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+16
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1804 RPM
+28 V
+121252,3 km
+17931,46 hrs
+Data/hora alerta
+09/02/2024 07:34:56
+Data de criação da mensagem
+09/02/2024 07:34:55
+Posição
+13,00 Km E De MANACAPURU, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1775 RPM
+28 V
+121251,7 km
+17931,21 hrs
+Data/hora alerta
+09/02/2024 07:19:55
+Data de criação da mensagem
+09/02/2024 07:19:55
+Posição
+13,56 Km E De MANACAPURU, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1775 RPM
+28 V
+121251 km
+17930,96 hrs
+Data/hora alerta
+09/02/2024 07:04:55
+Data de criação da mensagem
+09/02/2024 07:04:55
+Posição
+13,38 Km NNO De MANAQUIRI, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+17
+De
+71
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1775 RPM
+28 V
+121250,3 km
+17930,71 hrs
+Data/hora alerta
+09/02/2024 06:49:55
+Data de criação da mensagem
+09/02/2024 06:49:55
+Posição
+13,37 Km NNO De MANAQUIRI, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1785 RPM
+28 V
+121249,9 km
+17930,46 hrs
+Data/hora alerta
+09/02/2024 06:34:55
+Data de criação da mensagem
+09/02/2024 06:34:54
+Posição
+13,35 Km NNO De MANAQUIRI, AM Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+18
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1785 RPM
+28
+121249,5 km
+17930,21 hrs
+Data/hora alerta
+09/02/2024 06:19:55
+Data de criação da mensagem
+09/02/2024 06:19:54
+Posição
+13,74 Km NNO De MANAQUIRI, AM - Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+0 Km/h
+1785 RPM
+28 V
+121249,1 km
+17929,96 hrs
+Data/hora alerta
+09/02/2024 06:04:55
+Data de criação da mensagem
+09/02/2024 06:04:54
+Posição
+13,75 Km NNO De MANAQUIRI, AM Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1612 RPM
+28 V
+121248,7 km
+17929,71 hrs
+Data/hora alerta
+09/02/2024 05:49:54
+Data de criação da mensagem
+09/02/2024 05:49:54
+Posição
+13,71 Km N De MANAQUIRI, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+19
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1627 RPM
+28 V
+121248,1 km
+17929,46 hrs
+Data/hora alerta
+09/02/2024 05:34:54
+Data de criação da mensagem
+09/02/2024 05:34:54
+Posição
+13,78 Km N De MANAQUIRI, AM Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1620 RPM
+28 V
+121247 km
+17929,21 hrs
+Data/hora alerta
+09/02/2024 05:19:55
+Data de criação da mensagem
+09/02/2024 05:19:54
+Posição
+13,76 Km N De MANAQUIRI, AM Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+20
+De
+71

@@ -1,0 +1,1467 @@
+
+Histórico de consolidado de alertas de OBC
+CO
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1596 RPM
+28 V
+121514,8 km
+17999,81 hrs
+Data/hora alerta
+12/02/2024 05:22:38
+Data de criação da mensagem
+12/02/2024 05:22:38
+Posição
+33,83 Km o De CODAJAS, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1627 RPM
+28 V
+121513,7 km
+17999,56 hrs
+Data/hora alerta
+12/02/2024 05:07:38
+Data de criação da mensagem
+12/02/2024 05:07:38
+Posição
+32,92 Km o De CODAJAS, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1785 RPM
+28 V
+121512,7 km
+17999,31 hrs
+Data/hora alerta
+12/02/2024 04:52:38
+Data de criação da mensagem
+12/02/2024 04:52:37
+Posição
+32,27 Km o De CODAJAS, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+69
+De
+81
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1795 RPM
+28 V
+121511,9 km
+17999,06 hrs
+Data/hora alerta
+12/02/2024 04:37:38
+Data de criação da mensagem
+12/02/2024 04:37:37
+Posição
+31,70 Km o De CODAJAS, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1876 RPM
+28 V
+121511,2 km
+17998,81 hrs
+Data/hora alerta
+12/02/2024 04:22:38
+Data de criação da mensagem
+12/02/2024 04:22:37
+Posição
+31,07 Km O De CODAJAS, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+70
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1876 RPM
+28 V
+121510,5 km
+17998,56 hrs
+Data/hora alerta
+12/02/2024 04:07:37
+Data de criação da mensagem
+12/02/2024 04:07:37
+Posição
+30,82 Km o De CODAJAS, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1876 RPM
+28 V
+121510 km
+17998,31 hrs
+Data/hora alerta
+12/02/2024 03:52:38
+Data de criação da mensagem
+12/02/2024 03:52:37
+Posição
+30,59 Km o De CODAJAS, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1886 RPM
+28 V
+121509,5 km
+17998,06 hrs
+Data/hora alerta
+12/02/2024 03:37:38
+Data de criação da mensagem
+12/02/2024 03:37:37
+Posição
+30,14 Km o De CODAJAS, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+71
+De
+81
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1876 RPM
+28 V
+121508,9 km
+17997,81 hrs
+Data/hora alerta
+12/02/2024 03:22:37
+Data de criação da mensagem
+12/02/2024 03:22:37
+Posição
+29,68 Km o De CODAJAS, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1876 RPM
+28 V
+121508,1 km
+17997,56 hrs
+Data/hora alerta
+12/02/2024 03:07:37
+Data de criação da mensagem
+12/02/2024 03:07:37
+Posição
+29,26 Km O De CODAJAS, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+72
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1876 RPM
+28 V
+121507,4 km
+17997,31 hrs
+Data/hora alerta
+12/02/2024 02:52:37
+Data de criação da mensagem
+12/02/2024 02:52:36
+Posição
+29,12 Km o De CODAJAS, AM Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1876 RPM
+28 V
+121507 km
+17997,06 hrs
+Data/hora alerta
+12/02/2024 02:37:37
+Data de criação da mensagem
+12/02/2024 02:37:36
+Posição
+29,17 Km o De CODAJAS, AM - Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1865 RPM
+28 V
+121506,8 km
+17996,81 hrs
+Data/hora alerta
+12/02/2024 02:22:37
+Data de criação da mensagem
+12/02/2024 02:22:36
+Posição
+28,84 Km O De CODAJAS, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+73
+De
+81
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1865 RPM
+28 V
+121506,4 km
+17996,56 hrs
+Data/hora alerta
+12/02/2024 02:07:36
+Data de criação da mensagem
+12/02/2024 02:07:36
+Posição
+28,25 Km o De CODAJAS, AM Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1855 RPM
+28 V
+121505,5 km
+17996,31 hrs
+Data/hora alerta
+12/02/2024 01:52:37
+Data de criação da mensagem
+12/02/2024 01:52:36
+Posição
+27,59 Km ONO De CODAJAS, AM - Brasil, 5,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+74
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1865 RPM
+28 V
+121504,6 km
+17996,06 hrs
+Data/hora alerta
+12/02/2024 01:37:35
+Data de criação da mensagem
+12/02/2024 01:37:35
+Posição
+27,02 Km ONO De CODAJAS, AM Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1865 RPM
+28 V
+121503,7 km
+17995,81 hrs
+Data/hora alerta
+12/02/2024 01:22:35
+Data de criação da mensagem
+12/02/2024 01:22:35
+Posição
+26,61 Km ONO De CODAJAS, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+FCD
+1865 RPM
+28 V
+121503 km
+17995,56 hrs
+Data/hora alerta
+12/02/2024 01:07:36
+Data de criação da mensagem
+12/02/2024 01:07:35
+Posição
+26,43 Km ONO De CODAJAS, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+75
+De
+81
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1844 RPM
+28 V
+121502,6 km
+17995,31 hrs
+Data/hora alerta
+12/02/2024 00:52:35
+Data de criação da mensagem
+12/02/2024 00:52:35
+Posição
+25,57 Km ONO De CODAJAS, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1766 RPM
+28 V
+121501,6 km
+17995,06 hrs
+Data/hora alerta
+12/02/2024 00:37:35
+Data de criação da mensagem
+12/02/2024 00:37:35
+Posição
+25,02 Km ONO De CODAJAS, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+76
+De
+81
+Histórico de consolidado de alertas de OBC
+CO
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1876 RPM
+28 V
+121500,7 km
+17994,82 hrs
+Data/hora alerta
+12/02/2024 00:22:35
+Data de criação da mensagem
+12/02/2024 00:22:34
+Posição
+24,80 Km ONO De CODAJAS, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1865 RPM
+28 V
+121500,2 km
+17994,57 hrs
+Data/hora alerta
+12/02/2024 00:07:35
+Data de criação da mensagem
+12/02/2024 00:07:34
+Posição
+24,19 Km ONO De CODAJAS, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1855 RPM
+28 V
+121499,5 km
+17994,32 hrs
+Data/hora alerta
+11/02/2024 23:52:35
+Data de criação da mensagem
+11/02/2024 23:52:34
+Posição
+23,71 Km ONO De CODAJAS, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+77
+De
+81
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1855 RPM
+28 V
+121498,9 km
+17994,07 hrs
+Data/hora alerta
+11/02/2024 23:37:35
+Data de criação da mensagem
+11/02/2024 23:37:34
+Posição
+23,40 Km ONO De CODAJAS, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1757 RPM
+28 V
+121498,5 km
+17993,82 hrs
+Data/hora alerta
+11/02/2024 23:22:34
+Data de criação da mensagem
+11/02/2024 23:22:34
+Posição
+23,19 Km ONO De CODAJAS, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+78
+De
+81

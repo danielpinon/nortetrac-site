@@ -1,0 +1,1379 @@
+
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+6 Km/h
+1604 RPM
+28 V
+121292,5 km
+17941,91 hrs
+Data/hora alerta
+09/02/2024 19:21:34
+Data de criação da mensagem
+09/02/2024 19:21:33
+Posição
+23,47 Km SO De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1596 RPM
+28 V
+121291,3 km
+17941,66 hrs
+Data/hora alerta
+09/02/2024 19:06:33
+Data de criação da mensagem
+09/02/2024 19:06:33
+Posição
+22,62 Km so De MANACAPURU, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:17:08
+Autosup@LMNAV
+Página
+80
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1604 RPM
+28 V
+121290,4 km
+17941,41 hrs
+Total de registros listados:
+200
+Legenda:
+Entrada(s)
+Saídas
+Funções lógicas
+Status
+BP Pânico
+SIR Sirene
+CP2 Chave de Porta
+MV Módulo de Voz
+C1 - Carona Esquerda
+BLE Bloqueio
+C2 Carona Direita
+EX1 Extra 1
+BAU Porta Baú
+EX2 Extra 2
+DES Desengate
+WU Wake Up
+VEL EDN 1
+AGP Antena GPS
+ANT Antena
+IG Ignição
+EDP EDP-1
+PS Perda de Sinal
+BEA - Bateria Externa Ativa
+PSS Perda de Sinal Satelital
+CAN - Barramento Can
+MCT Antena MCT
+JAM Jamming
+EP2 EDP 02
+EP3 EDP 03
+ED4 Entrada digital positiva 4
+EN2 EDN 02
+EN3 EDN 03
+19/02/2024 14:17:08
+Autosup@LMNAV
+Página
+81
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Período: 07/02/2024 00:00:00 Até 13/02/2024 23:59:59
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Data/hora alerta
+13/02/2024 23:52:53
+Data de criação da mensagem
+13/02/2024 23:52:52
+Posição
+141,22 Km ESE De TEFE, AM - Brasil, 5,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1523 RPM
+28 V
+121677,9 km
+18041,95 hrs
+Data/hora alerta
+13/02/2024 23:37:53
+Data de criação da mensagem
+13/02/2024 23:37:52
+Posição
+142,48 Km ESE De TEFE, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1516 RPM
+28 V
+121676,6 km
+18041,7 hrs
+Data/hora alerta
+13/02/2024 23:22:52
+Data de criação da mensagem
+13/02/2024 23:22:52
+Posição
+143,44 Km ESE De TEFE, AM Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+1
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1523 RPM
+28 V
+121675,4 km
+18041,45 hrs
+Data/hora alerta
+13/02/2024 23:07:52
+Data de criação da mensagem
+13/02/2024 23:07:52
+Posição
+144,37 Km ESE De TEFE, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1516 RPM
+28 V
+121674,4 km
+18041,2 hrs
+Data/hora alerta
+13/02/2024 22:52:52
+Data de criação da mensagem
+13/02/2024 22:52:52
+Posição
+145,10 Km ESE De TEFE, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+2
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1516 RPM
+28 V
+121673,5 km
+18040,95 hrs
+Data/hora alerta
+13/02/2024 22:37:52
+Data de criação da mensagem
+13/02/2024 22:37:51
+Posição
+145,74 Km ESE De TEFE, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1516 RPM
+28 V
+121672,7 km
+18040,7 hrs
+Data/hora alerta
+13/02/2024 22:22:52
+Data de criação da mensagem
+13/02/2024 22:22:51
+Posição
+46,33 Km ONO De COARI, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1516 RPM
+28 V
+121672 km
+18040,45 hrs
+Data/hora alerta
+13/02/2024 22:07:51
+Data de criação da mensagem
+13/02/2024 22:07:51
+Posição
+45,65 Km ONO De COARI, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+3
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1516 RPM
+28 V
+121671,2 km
+18040,2 hrs
+Data/hora alerta
+13/02/2024 21:52:52
+Data de criação da mensagem
+13/02/2024 21:52:51
+Posição
+44,98 Km ONO De COARI, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1509 RPM
+28 V
+121670,3 km
+18039,95 hrs
+Data/hora alerta
+13/02/2024 21:37:52
+Data de criação da mensagem
+13/02/2024 21:37:51
+Posição
+44,44 Km ONO De COARI, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+4
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1502 RPM
+28 V
+121669,5 km
+18039,7 hrs
+Data/hora alerta
+13/02/2024 21:22:51
+Data de criação da mensagem
+13/02/2024 21:22:51
+Posição
+44,02 Km NO De COARI, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1523 RPM
+28 V
+121668,5 km
+18039,45 hrs
+Data/hora alerta
+13/02/2024 21:07:51
+Data de criação da mensagem
+13/02/2024 21:07:51
+Posição
+43,34 Km NO De COARI, AM - Brasil, 4,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1516 RPM
+28 V
+121667,3 km
+18039,2 hrs
+Data/hora alerta
+13/02/2024 20:52:50
+Data de criação da mensagem
+13/02/2024 20:52:50
+Posição
+42,70 Km NO De COARI, AM Brasil, 5,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+5
+De
+81
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1516 RPM
+28 V
+121666 km
+18038,95 hrs
+Data/hora alerta
+13/02/2024 20:37:51
+Data de criação da mensagem
+13/02/2024 20:37:50
+Posição
+41,29 Km NO De COARI, AM - Brasil, 6,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+7 Km/h
+1589 RPM
+28 V
+121664,4 km
+18038,7 hrs
+Data/hora alerta
+13/02/2024 20:22:51
+Data de criação da mensagem
+13/02/2024 20:22:50
+Posição
+40,33 Km NO De COARI, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+6
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1635 RPM
+28 V
+121663,3 km
+18038,45 hrs
+Data/hora alerta
+13/02/2024 20:07:50
+Data de criação da mensagem
+13/02/2024 20:07:50
+Posição
+40,17 Km NO De COARI, AM - Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+557 RPM
+28 V
+121662,7 km
+18038,2 hrs
+Data/hora alerta
+13/02/2024 19:52:50
+Data de criação da mensagem
+13/02/2024 19:52:50
+Posição
+39,82 Km NO De COARI, AM - Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+FCD
+1627 RPM
+28 V
+121662,3 km
+18037,95 hrs
+Data/hora alerta
+13/02/2024 19:37:49
+Data de criação da mensagem
+13/02/2024 19:37:49
+Posição
+39,82 Km NO De COARI, AM - Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+7
+De
+81
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+0 Km/h
+702 RPM
+28 V
+121662,2 km
+18037,7 hrs
+Data/hora alerta
+13/02/2024 19:22:50
+Data de criação da mensagem
+13/02/2024 19:22:49
+Posição
+39,50 Km NO De COARI, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+560 RPM
+28 V
+121661,7 km
+18037,45 hrs
+Data/hora alerta
+13/02/2024 19:07:50
+Data de criação da mensagem
+13/02/2024 19:07:49
+Posição
+39,61 Km NO De COARI, AM - Brasil, 0,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+19/02/2024 12:33:07
+Autosup@LMNAV
+Página
+8
+De
+81

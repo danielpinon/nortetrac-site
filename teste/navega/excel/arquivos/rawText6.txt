@@ -1,0 +1,1435 @@
+
+Histórico de consolidado de alertas de OBC
+CO
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Data/hora alerta
+08/02/2024 10:50:06
+Data de criação da mensagem
+08/02/2024 10:50:05
+Posição
+10,30 Km SSE De NORTETRAC Manaus, AM Brasil,
+Ignição
+Ligada
+0,0 Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1635 RPM
+28 V
+121179,08 km
+17910,48 hrs
+Data/hora alerta
+08/02/2024 10:35:06
+Data de criação da mensagem
+08/02/2024 10:35:05
+Posição
+10,33 Km SSE De NORTETRAC - Manaus, AM - Brasil,
+Ignição
+Ligada
+1,0 Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1635 RPM
+28 V
+121178,79 km
+17910,23 hrs
+Data/hora alerta
+08/02/2024 10:20:06
+Data de criação da mensagem
+08/02/2024 10:20:05
+Posição
+10,39 Km SE De NORTETRAC Manaus, AM Brasil, 5,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+51
+De
+71
+Histórico de consolidado de alertas de OBC
+W
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1652 RPM
+28 V
+121178,44 km
+17909,98 hrs
+Data/hora alerta
+08/02/2024 10:05:06
+Data de criação da mensagem
+08/02/2024 10:05:05
+Posição
+10,55 Km SE De NORTETRAC Manaus, AM Brasil, 2,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1660 RPM
+28 V
+121177,35 km
+17909,73 hrs
+Data/hora alerta
+08/02/2024 09:50:06
+Data de criação da mensagem
+08/02/2024 09:50:05
+Posição
+10,57 Km SE De NORTETRAC - Manaus, AM - Brasil, 1,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+52
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+0 Km/h
+626 RPM
+25 V
+121177,17 km
+17909,5 hrs
+Data/hora alerta
+08/02/2024 08:18:33
+Data de criação da mensagem
+08/02/2024 08:18:32
+Posição
+10,58 Km SE De NORTETRAC Manaus, AM Brasil, 0,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1018 RPM
+28 V
+121176,97 km
+17909,29 hrs
+Data/hora alerta
+08/02/2024 08:03:33
+Data de criação da mensagem
+08/02/2024 08:03:32
+Posição
+10,59 Km SE De NORTETRAC Manaus, AM - Brasil, 0,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+0 Km/h
+917 RPM
+28 V
+121176,84 km
+17909,04 hrs
+Data/hora alerta
+08/02/2024 07:48:32
+Data de criação da mensagem
+08/02/2024 07:48:32
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+53
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Posição
+10,63 Km SE De NORTETRAC Manaus, AM Brasil, 1,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+608 RPM
+28 V
+121176,64 km
+17908,79 hrs
+Data/hora alerta
+08/02/2024 07:33:32
+Data de criação da mensagem
+08/02/2024 07:33:32
+Posição
+11,24 Km SE De NORTETRAC - Manaus, AM - Brasil, 3,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1502 RPM
+28 V
+121175,87 km
+17908,54 hrs
+Data/hora alerta
+08/02/2024 07:18:33
+Data de criação da mensagem
+08/02/2024 07:18:32
+Posição
+11,71 Km SE De NORTETRAC Manaus, AM Brasil, 0,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+54
+De
+71
+Histórico de consolidado de alertas de OBC
+CO
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+1 Km/h
+1544 RPM
+28 V
+121175 km
+17908,29 hrs
+Data/hora alerta
+08/02/2024 07:03:33
+Data de criação da mensagem
+08/02/2024 07:03:32
+Posição
+11,73 Km SE De NORTETRAC - Manaus, AM - Brasil, 2,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1589 RPM
+28 V
+121174,78 km
+17908,04 hrs
+Data/hora alerta
+08/02/2024 06:48:32
+Data de criação da mensagem
+08/02/2024 06:48:32
+Posição
+11,68 Km SE De NORTETRAC - Manaus, AM Brasil, 1,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+55
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+AMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+2 Km/h
+1604 RPM
+28 V
+121174,54 km
+17907,79 hrs
+Data/hora alerta
+08/02/2024 06:18:32
+Data de criação da mensagem
+08/02/2024 06:18:31
+Posição
+10,79 Km SSE De NORTETRAC Manaus, AM Brasil,
+Ignição
+Ligada
+2,0 Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1604 RPM
+28 V
+121173,6 km
+17907,29 hrs
+Data/hora alerta
+08/02/2024 06:03:31
+Data de criação da mensagem
+08/02/2024 06:03:31
+Posição
+10,53 Km SE De NORTETRAC Manaus, AM Brasil, 2,0
+Ignição
+Ligada
+Km/h
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1596 RPM
+28 V
+121172,49 km
+17907,04 hrs
+Data/hora alerta
+08/02/2024 05:48:32
+Data de criação da mensagem
+08/02/2024 05:48:31
+Posição
+10,75 Km SE De NORTETRAC Manaus, AM - Brasil, 2,0
+Ignição
+Ligada
+Km/h
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+56
+De
+71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1612 RPM
+28 V
+121171,76 km
+17906,79 hrs
+Data/hora alerta
+08/02/2024 05:33:31
+Data de criação da mensagem
+08/02/2024 05:33:31
+Posição
+10,47 Km O De CAREIRO, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1604 RPM
+28 V
+121171,13 km
+17906,54 hrs
+Data/hora alerta
+08/02/2024 05:18:31
+Data de criação da mensagem
+08/02/2024 05:18:30
+Posição
+9,60 Km o De CAREIRO, AM - Brasil, 5,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+57
+De
+71
+Histórico de consolidado de alertas de OBC
+CO
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+ALMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+5 Km/h
+1612 RPM
+28 V
+121170,01 km
+17906,29 hrs
+Data/hora alerta
+08/02/2024 05:03:30
+Data de criação da mensagem
+08/02/2024 05:03:30
+Posição
+8,96 Km o De CAREIRO, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1612 RPM
+28 V
+121169,03 km
+17906,04 hrs
+Data/hora alerta
+08/02/2024 04:48:30
+Data de criação da mensagem
+08/02/2024 04:48:30
+Posição
+8,67 Km O De CAREIRO, AM Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+4 Km/h
+1509 RPM
+28 V
+121168,2 km
+17905,79 hrs
+Data/hora alerta
+08/02/2024 04:33:31
+Data de criação da mensagem
+08/02/2024 04:33:30
+Posição
+8,55 Km ONO De CAREIRO, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+58 De 71
+Histórico de consolidado de alertas de OBC
+a
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1612 RPM
+28 V
+121167,54 km
+17905,54 hrs
+Data/hora alerta
+08/02/2024 04:18:36
+Data de criação da mensagem
+08/02/2024 04:18:36
+Posição
+8,77 Km ONO De CAREIRO, AM - Brasil, 3,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+3 Km/h
+1604 RPM
+28 V
+121166,73 km
+17905,29 hrs
+Data/hora alerta
+08/02/2024 04:03:36
+Data de criação da mensagem
+08/02/2024 04:03:35
+Posição
+8,88 Km ONO De CAREIRO, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+59
+De
+71
+Histórico de consolidado de alertas de OBC
+CO
+AUTOTRAC
+SUPERVISOR
+Veículo
+CAP. BRAVO 6 (349973)
+Conta
+LMNAVEGACAOETRANSPORTELTDA0145 (268527801)
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1604 RPM
+28 V
+121166,16 km
+17905,04 hrs
+Data/hora alerta
+08/02/2024 03:48:36
+Data de criação da mensagem
+08/02/2024 03:48:35
+Posição
+9,04 Km ONO De CAREIRO, AM - Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+X
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+X
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1596 RPM
+28 V
+121165,6 km
+17904,79 hrs
+Data/hora alerta
+08/02/2024 03:33:32
+Data de criação da mensagem
+08/02/2024 03:33:32
+Posição
+9,23 Km ONO De CAREIRO, AM Brasil, 2,0 Km/h
+Ignição
+Ligada
+Entradas Violadas
+BP
+CP2
+C1
+C2
+BAU
+DES
+VEL
+AGP
+ANT
+IG
+EDP
+PS
+BEA
+PSS
+CAN
+MCT
+JAM
+EP2
+EP3
+ED4
+EN2
+EN3
+x
+x
+Saídas Acionadas
+Funções Lógicas
+SIR
+MV
+BLE
+EX1
+EX2
+WU
+x
+Valores Atuais
+Velocidade
+RPM
+Tensão da bateria
+Hodômetro
+Horímetro
+2 Km/h
+1604 RPM
+28 V
+121165,11 km
+17904,54 hrs
+Data/hora alerta
+08/02/2024 03:18:33
+Data de criação da mensagem
+08/02/2024 03:18:32
+Posição
+9,37 Km ONO De CAREIRO, AM - Brasil, 1,0 Km/h
+Ignição
+Ligada
+19/02/2024 14:24:55
+Autosup@LMNAV
+Página
+60 De 71
