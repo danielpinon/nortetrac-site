@@ -4,45 +4,43 @@
 class classEp{
 
 	#VARIÁVEIS ==
-	public $urlApp = 'https://app.nortetrac.com.br';
+	public $urlApp = 'https://app2.nortetrac.com.br/';
 	
 	#VARIÁVEIS PARA COOKIES ==
 	public $dominioCk = '.nortetrac.com.br';
 	public $dominioPainelClienteCk = '.provisorio.ws';
 
 	#CONEXÃO COM O BANCO DE DADOS ==
-	function conectBdEp(){
-		
-		#VARIÁVEIS ==
-		$hostBd = "54.207.221.143";
-		$databaseBd = "NorteTracApp";
-		$usuarioBd = "nortetrac";
+	function conectBdEp()
+	{
+
+		$hostBd = "127.0.0.1";
+		$databaseBd = "norteTracApp";
+		$usuarioBd = "norteTracApp";
 		$senhaBd = "2012@norte";
 
-		if(isset($this->conectBdEpSelecionado)){
-
-			$conectBd = $this->conectBdEpSelecionado;
-
-		} else {
-			
-			$conectBd = mysqli_connect($hostBd, $usuarioBd, $senhaBd) or trigger_error(mysqli_error(), E_USER_ERROR);
-			mysqli_select_db($conectBd, $databaseBd);
-			$this->conectBdEpSelecionado = $conectBd;
-
+		if ($this->conectBdEpSelecionado instanceof mysqli) {
+			return $this->conectBdEpSelecionado;
 		}
-		
+
+		$conectBd = mysqli_connect($hostBd, $usuarioBd, $senhaBd)
+			or trigger_error(mysqli_error(), E_USER_ERROR);
+
+		mysqli_select_db($conectBd, $databaseBd);
+
+		$this->conectBdEpSelecionado = $conectBd;
+
 		return $conectBd;
-		
 	}
 
+
 	#FECHAR CONEXÃO ==
-	function closeConectBdEp(){
-
-		if(isset($this->conectBdEpSelecionado)){
+	function closeConectBdEp()
+	{
+		if ($this->conectBdEpSelecionado instanceof mysqli) {
 			mysqli_close($this->conectBdEpSelecionado);
-			unset($this->conectBdEpSelecionado);
+			$this->conectBdEpSelecionado = null;
 		}
-
 	}
 
 	##########################################################################
