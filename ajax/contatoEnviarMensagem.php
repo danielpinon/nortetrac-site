@@ -67,7 +67,7 @@ if((isset($_POST['rand'])) && (isset($_POST['nome'])) && (isset($_POST['telefone
 	);
 
 	#INFORMAAÇÕES DE REMENTENTE ==
-	$nomeRemEm = utf8_encode('NorteTrac');
+	$nomeRemEm = toUtf8('NorteTrac');
 	$emailRemEm = 'no-reply@nortetrac.com.br';
 
 	#VARIÁVEIS PARA O ENVIO DE E-MAIL == 

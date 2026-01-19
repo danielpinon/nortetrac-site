@@ -62,7 +62,7 @@ if(strlen($tipoConteudo) > 0){
         $tipoAq = $rowAq['tipoAq'];
         $tpContAq = $rowAq['tpContAq'];
         $codDtAq = $rowAq['codDtAq'];
-        $nomeAq = utf8_encode($rowAq['nomeAq']);
+        $nomeAq = toUtf8($rowAq['nomeAq']);
         $arqAq = $rowAq['arqAq'];
         $tpArqAq = $rowAq['tpArqAq'];
         $tamanhoAq = $rowAq['tamanhoAq'];

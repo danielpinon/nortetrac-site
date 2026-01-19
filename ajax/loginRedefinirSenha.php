@@ -29,8 +29,8 @@ if((isset($_POST['rand'])) && (isset($_POST['tpAcaoCa']))){
 
 			#RETORNANDO DADOS ==
 			$codCa = $rowCa['codCa'];
-			$nomeCa = utf8_encode($rowCa['nomeCa']);
-			$loginCa = utf8_encode($rowCa['loginCa']);
+			$nomeCa = toUtf8($rowCa['nomeCa']);
+			$loginCa = toUtf8($rowCa['loginCa']);
 			$loginCa = 'renato@empredi.com.br';
 
 			#GERAR CÓDIGO DE RECUPERAÇÃO ==
@@ -105,7 +105,7 @@ if((isset($_POST['rand'])) && (isset($_POST['tpAcaoCa']))){
 			);
 
 			#INFORMAAÇÕES DE REMENTENTE ==
-			$nomeRemEm = utf8_encode('NorteTrac');
+			$nomeRemEm = toUtf8('NorteTrac');
 			$emailRemEm = 'no-reply@nortetrac.com.br';
 
 			#VARIÁVEIS PARA O ENVIO DE E-MAIL == 
@@ -210,7 +210,7 @@ if((isset($_POST['rand'])) && (isset($_POST['tpAcaoCa']))){
 				);
 
 				#INFORMAAÇÕES DE REMENTENTE ==
-				$nomeRemEm = utf8_encode('NorteTrac');
+				$nomeRemEm = toUtf8('NorteTrac');
 				$emailRemEm = 'no-reply@nortetrac.com.br';
 
 				#VARIÁVEIS PARA O ENVIO DE E-MAIL ==

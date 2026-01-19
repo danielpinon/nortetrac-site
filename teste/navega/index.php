@@ -88,12 +88,12 @@ $loopViNameVi = array();
 do{
 
 	$codVi = $rowVi['codVi'];
-	$NameVi = utf8_encode(trim($rowVi['NameVi']));
+	$NameVi = toUtf8(trim($rowVi['NameVi']));
 	$codViNameVi = substr(md5("$NameVi"), 0, 20);
-	$AddressVi = utf8_encode($rowVi['AddressVi']);
-	$CodeVi = utf8_encode($rowVi['CodeVi']);
-	$AccountNumberVi = utf8_encode($rowVi['AccountNumberVi']);
-	$codContaVi = utf8_encode($rowVi['codContaVi']);
+	$AddressVi = toUtf8($rowVi['AddressVi']);
+	$CodeVi = toUtf8($rowVi['CodeVi']);
+	$AccountNumberVi = toUtf8($rowVi['AccountNumberVi']);
+	$codContaVi = toUtf8($rowVi['codContaVi']);
 
 	if(isset($loopViNameVi["$codViNameVi"])){
 		$loopViNameVi["$codViNameVi"] = array();

@@ -101,7 +101,7 @@ if($totalDt > 0){
 				$anoVi = $rowVi['anoVi'];
 				$placaVi = $rowVi['placaVi'];
 				$chassiVi = $rowVi['chassiVi'];
-				$cidadePlacaVi = utf8_encode($rowVi['cidadePlacaVi']);
+				$cidadePlacaVi = toUtf8($rowVi['cidadePlacaVi']);
 				$estadoPlacaVi = $rowVi['estadoPlacaVi'];
 				$codBateriaVi = $rowVi['codBateriaVi'];
 				$bateriaVi = '';

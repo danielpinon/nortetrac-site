@@ -36,7 +36,7 @@ foreach($loopAq as $nomeAqEp){
 			$nomeFantasiaCa = $classEp->escapaCaracteresEp(trim($arrayLnAqEp[1]));
 			$nomeCa = $classEp->escapaCaracteresEp(trim($arrayLnAqEp[3]));
 			$bairroCa = $classEp->escapaCaracteresEp(trim($arrayLnAqEp[4]));
-			$cidadeCa = $classEp->escapaCaracteresEp(utf8_encode(trim($arrayLnAqEp[5])));
+			$cidadeCa = $classEp->escapaCaracteresEp(toUtf8(trim($arrayLnAqEp[5])));
 			$estadoCa = $classEp->escapaCaracteresEp(trim($arrayLnAqEp[6]));
 			$telefoneCa = $classEp->escapaCaracteresEp(trim($arrayLnAqEp[7]));
 			
